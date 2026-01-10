@@ -3,7 +3,7 @@
 Що буде перевірятися вже створено.
 По закінченню перевірок буде надано Google Таблиця
 
-<img width="689" height="789" alt="image" src="https://github.com/user-attachments/assets/4e085ce2-aaa4-4903-aff5-5599abf2cb14" />
+<img width="634" height="804" alt="image" src="https://github.com/user-attachments/assets/25cead64-3ac0-4b0b-8cfa-54fd1c695ea1" />
 
-<img width="683" height="770" alt="image" src="https://github.com/user-attachments/assets/cd340820-183a-4cac-94b1-6ee9463d0e69" />
+<img width="633" height="562" alt="image" src="https://github.com/user-attachments/assets/b0179dbe-4051-4b58-a0d3-949807855c39" />
 
