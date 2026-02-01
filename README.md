@@ -27,7 +27,7 @@ Manual Game QA тестування Save/Load системи гри Stardew Vall
 
 # Виявлені проблеми
 
-| [BUG-SAVE-001](BUG-001_Save_Corruption.md) | Пошкоджений сейв відображається без індикації помилки
+| [BUG-SAVE-001](04_Bug_Reports/BUG-001_Save_Corruption.md) | Пошкоджений сейв відображається без індикації помилки
 
 ## 📊 Статистика тестування
 
